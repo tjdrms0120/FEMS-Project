@@ -1,0 +1,5 @@
+/* 차트 폰트 사이즈 및 폰트 형태 설정 */
+.e-control * {
+  font-size: 15px !important;
+  font-family: "Noto Sans KR" !important;
+}

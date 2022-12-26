@@ -1,0 +1,5 @@
+/*grid 폰트 사이즈 조정*/
+
+.e-grid * {
+  font-size: 18px !important;
+}
